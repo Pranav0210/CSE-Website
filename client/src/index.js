@@ -1,8 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from './App';
-import { BrowserRouter, Route, Switch } from 'react-router-dom'
-// import { Switch} from 'react-router'
+// import App from './App';
+import { BrowserRouter, Switch, Route} from 'react-router-dom'
+// import {Switch} from 'react-router'
 import Home from './pages/Home/Home';
 import Students from './pages/Students/Students';
 import Login from './pages/Auth/Login';
